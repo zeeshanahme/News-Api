@@ -1,0 +1,13 @@
+#icon{
+    letter-spacing: -1px;
+    padding: 5px 0 5px 6px;
+    background: #1a73e8;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    width: 90px;
+    text-decoration: overline;
+    font-style: oblique ;
+    border: 2px solid;
+    border-color: #000000;
+}
